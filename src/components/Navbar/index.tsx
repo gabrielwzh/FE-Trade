@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import { Dropdown, DropdownButton, Button } from "react-bootstrap";
+import { Dropdown, DropdownButton } from "react-bootstrap";
 
 const Container = styled.div`
   z-index: 2;

@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "../../components/Navbar";
 import { Wrapper, Subcontainer } from "../../components/CardBody.styles";
-import styled from "styled-components";
 
 function Home() {
   return (
