@@ -45,6 +45,7 @@ const Navbar = () => {
         <CustomLink to="/">Home</CustomLink>
         <CustomLink to="/Trade">Trade</CustomLink>
         <CustomLink to="/Account">Account</CustomLink>
+        <CustomLink to="/Wallet">Wallet</CustomLink>
       </TitleContainer>
       <DropboxContainer>
         <DropdownButton
